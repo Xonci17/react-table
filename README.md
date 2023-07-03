@@ -1,4 +1,4 @@
-# Super Table 🦸‍♂️
+# Super Table 🦸‍♂
 
 This is a React application that displays information about cars in a table format. It allows users to view, add, edit, and delete car data. The table is implemented using the Material-UI library, specifically the `MaterialTable` component.
 
